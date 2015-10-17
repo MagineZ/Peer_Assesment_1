@@ -1,6 +1,6 @@
 ---
 title: "Peer Assessment 1"
-output: html_document
+output: md_document
 ---
 
 #Loading the data and preprocessing
